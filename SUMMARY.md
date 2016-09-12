@@ -6,5 +6,5 @@
    * [章节和子章节](format/chapters.md)
    * [Markdown](format/markdown.md)
 * [如何在 ubuntu 下安装搜狗输入法](posts/work03.md)
-* [my tour of LINUX system](my.md)
+* [MY TOUR OF THE LINUX SYSTEM](my.md)
 
