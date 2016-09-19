@@ -1,3 +1,4 @@
+
 # 安装输入法
 
 ##搜狗拼音输入法LINUX版官方下载[：http://pinyin.sogou.com/linux/?r=pinyin](：http://pinyin.sogou.com/linux/?r=pinyin)
