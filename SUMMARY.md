@@ -7,6 +7,5 @@
    * [如何在 ubuntu 下安装搜狗输入法](posts/work03.md)
    * [MY TOUR OF THE LINUX SYSTEM](linux.md)
    * [Markdown](format/markdown.md)
-* [安装输入法](an_zhuang_shu_ru_fa.md)
-   * 
+* [安装输入法](anzhuang_shu_ru_fa_md.md)
 
