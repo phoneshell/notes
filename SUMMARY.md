@@ -8,5 +8,5 @@
    * [MY TOUR OF THE LINUX SYSTEM](linux.md)
    * [Markdown](format/markdown.md)
 * [安装输入法](an_zhuang_shu_ru_fa.md)
-* [linux](linux.md)
+   * 
 
